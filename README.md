@@ -2,11 +2,10 @@
 
 This repository hosts the public landing page, support page, and privacy
 policy for **Ultra Open Client**, a free, non-commercial, open-source iOS app
-for chatting with AI.
+for private AI chat powered by Apple Intelligence.
 
-Apple Intelligence runs privately on-device as the default experience, and
-additional open-source AI models are available as alternative backends —
-with more to be added over time.
+Apple Intelligence runs privately on-device through Apple's Foundation
+Models framework. Messages never leave the iPhone.
 
 ## What's here
 
