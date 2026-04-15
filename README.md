@@ -1,7 +1,7 @@
-# AI Open Client — Website
+# Ultra Open Client — Website
 
 This repository hosts the public landing page, support page, and privacy
-policy for **AI Open Client**, a free, non-commercial, open-source iOS app
+policy for **Ultra Open Client**, a free, non-commercial, open-source iOS app
 for chatting with AI.
 
 Apple Intelligence runs privately on-device as the default experience, and
